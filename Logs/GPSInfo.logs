@@ -1,0 +1,48 @@
+[main] 06-22-2020 12:00:30 -Entered Username
+ [main] 06-22-2020 12:00:30 -Entered Password
+ [main] 06-25-2020 01:53:50 -Entered Username
+ [main] 06-25-2020 01:53:51 -Entered Password
+ [main] 06-25-2020 01:54:04 -GPS Login Successful
+ [main] 06-25-2020 01:54:14 -Entered Username
+ [main] 06-25-2020 01:54:14 -Entered Password
+ [main] 06-25-2020 01:54:22 -GPS Login Successful
+ [main] 06-25-2020 01:54:22 -CurrentDateCheck: Correct date shown on GoalSheet
+ [main] 06-25-2020 01:54:22 -CheckEmployeeLead: Lead Name shown for the Employee
+ [main] 06-25-2020 01:54:22 -EmployeeFullTimeProject: Employee is currently working on project- Stanton Zeus Manual QA - 2 MO
+ [main] 06-25-2020 01:54:33 -Entered Username
+ [main] 06-25-2020 01:54:33 -Entered Password
+ [main] 06-25-2020 01:54:37 -GPS Login Successful
+ [main] 06-25-2020 01:54:38 -AddGoal: Entered Goal
+ [main] 06-25-2020 01:54:40 -AddGoal: Refreshed Screen after GoalAdd
+ [main] 06-25-2020 01:54:40 -Add Goal: Goal Add Failed
+ [main] 06-25-2020 01:54:41 -AddNote: Goal Not found to add Note
+ [main] 06-25-2020 01:54:41 -UpdateGoal : Goal Not found
+ [main] 06-25-2020 01:54:54 -Entered Username
+ [main] 06-25-2020 01:54:54 -Entered Password
+ [main] 06-25-2020 01:54:58 -GPS Login Successful
+ [main] 06-25-2020 01:55:00 -ComposeMsgSelf: Message Subject Entered
+ [main] 06-25-2020 01:55:00 -ComposeMsgSelf: Message Text Entered
+ [main] 06-25-2020 01:55:06 -ComposeMsgSelf: Message Sent Successfully
+ [main] 06-25-2020 01:55:15 -Entered Username
+ [main] 06-25-2020 01:55:15 -Entered Password
+ [main] 06-25-2020 01:55:21 -GPS Login Successful
+ [main] 06-25-2020 01:55:27 -ComposeMsgOther: Message Subject Entered
+ [main] 06-25-2020 01:55:27 -ComposeMsgOther: Message Text Entered
+ [main] 06-25-2020 01:55:32 -ComposeMsgOther: Message Sent Successfully
+ [main] 06-25-2020 01:55:46 -Entered Username
+ [main] 06-25-2020 01:55:46 -Entered Password
+ [main] 06-25-2020 01:55:50 -GPS Login Successful
+ [main] 06-25-2020 01:55:54 -VerifyEmployeeId: Correct Employee Id shown
+ [main] 06-25-2020 01:55:58 -EmployeeContactInfo : Skype Id =  live:yaminim_4, Email Id = yaminimaheshwari6@gmail.com, MobileNo = 8057719056
+ [main] 06-25-2020 02:47:03 -Entered Username
+ [main] 06-25-2020 02:47:03 -Entered Password
+ [main] 06-25-2020 02:47:07 -GPS Login Successful
+ [main] 06-25-2020 02:47:09 -AddGoal: Entered Goal
+ [main] 06-25-2020 02:47:12 -AddGoal: Refreshed Screen after GoalAdd
+ [main] 06-25-2020 02:47:12 -Add Goal: Goal Added Successfully
+ [main] 06-25-2020 02:47:15 -AddNote: Note Add Failed
+ [main] 06-25-2020 02:47:17 -UpdateGoal: Goal Updated successfully
+ [main] 06-28-2020 09:40:57 -Entered Username
+ [main] 06-28-2020 09:40:57 -Entered Password
+ [main] 06-28-2020 09:41:02 -GPS Login Successful
+ 

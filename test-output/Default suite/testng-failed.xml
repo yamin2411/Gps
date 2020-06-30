@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="gps.TestCases.TC_MessageTest_TC001">
+        <methods>
+          <include name="loginSetup"/>
+          <include name="tearDown"/>
+          <include name="testMessageSendToSelf"/>
+          <include name="Reportflush"/>
+          <include name="getResult"/>
+          <include name="Browsersetup"/>
+          <include name="InitReport"/>
+        </methods>
+      </class> <!-- gps.TestCases.TC_MessageTest_TC001 -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

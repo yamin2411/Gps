@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+   <parameter name="Browser" value="chrome"/>
+  <listeners>
+  <listener class-name="gps.TestCases.Listeners"/>
+  </listeners>
+  
+  <test thread-count="5" name="Test">
+  
+       <parameter name="ReadFrom" value="Config"/> 
+        <parameter name="GoalNoFromSheet" value="4"/> 
+       <parameter name="NoteForGoalFromSheet" value="4"/>
+       <parameter name="CommentNofromSheet" value="2"/>
+
+    <classes>
+     
+      <class name="gps.TestCases.TC_GoalSheetTest_TC002"/> 
+           
+    </classes>
+    
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

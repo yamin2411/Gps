@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <parameter name="Browser" value="chrome"/>
+  <listeners>
+    <listener class-name="gps.TestCases.Listeners"/>
+  </listeners>
+  <test name="Test(failed)">
+    <parameter name="NoteForGoalFromSheet" value="4"/>
+    <parameter name="GoalNoFromSheet" value="4"/>
+    <parameter name="CommentNofromSheet" value="2"/>
+    <parameter name="ReadFrom" value="Config"/>
+    <classes>
+      <class name="gps.TestCases.TC_GoalSheetTest_TC002">
+        <methods>
+          <include name="testaddNewGoal" invocation-numbers="0"/>
+          <include name="testaddNote"/>
+          <include name="testupdateStatus"/>
+          <include name="tearDown"/>
+          <include name="Reportflush"/>
+          <include name="loginSetup"/>
+          <include name="getResult"/>
+          <include name="Browsersetup"/>
+          <include name="testaddComment"/>
+          <include name="InitReport"/>
+        </methods>
+      </class> <!-- gps.TestCases.TC_GoalSheetTest_TC002 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
